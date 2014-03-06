@@ -2,6 +2,8 @@
 
 The documents here describe industry standards, conventions and best practices for writing maintainable code when working with web technologies.
 
+Contributions are encouraged!
+
 ## Golden rule ##
 
 **Every line of code should appear to be written by a single person, no matter the number of contributors.**
