@@ -176,6 +176,8 @@ var panel = new View();
 
 ## Miscellaneous ##
 
++ Do not use `eval`.
++ Stay away from the `with` construct.
 + When using `parseInt` for converting to integer always specify the radix.
 
 ```js
