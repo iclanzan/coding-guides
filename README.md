@@ -31,9 +31,10 @@ Consider applying these preferences to your project's `.editorconfig` file. You 
 
 ## Thanks ##
 
-[Code Guide by @mdo](https://github.com/mdo/code-guide)
-[Google HTML/CSS Style Guide](https://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml)
-
+Inspired by
+[Code Guide by @mdo](https://github.com/mdo/code-guide),
+[Google HTML/CSS Style Guide](https://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml),
+[Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript).
 
 
 [EditorConfig]: http://editorconfig.org/
