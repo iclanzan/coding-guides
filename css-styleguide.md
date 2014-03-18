@@ -1,4 +1,4 @@
-# CSS style guide #
+# CSS Styleguide #
 
 ## Formatting rules ##
 
